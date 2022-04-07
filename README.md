@@ -1,8 +1,10 @@
-# INACAP-Ejercicios
-Ejercicios de algoritmos y más relacionados con mis clases en la universidad técnologica de chile INACAP
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logotipo_Inacap.svg/1200px-Logotipo_Inacap.svg.png" width="450"></img>
+  <h1>INACAP-Ejercicios</h1>
+</div>
 
 ### Informacion
-  - Lenguajes que se ocuparán:
+   - Lenguajes que se ocuparán:
       - [Python](https://www.python.org)
       - [Papyrus/PSeInt](http://pseint.sourceforge.net)
       - [C](https://www.cprogramming.com)
