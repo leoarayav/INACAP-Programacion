@@ -14,6 +14,9 @@
   - Actividades:
       - [Actividad N°2](https://github.com/leoarayav/INACAP-Ejercicios/tree/main/code)
       - [Actividad N°3](https://github.com/leoarayav/INACAP-Ejercicios/tree/main/code/actividad-3)
+  - Miscelanio:
+      - [Arbol binario](https://github.com/leoarayav/INACAP-Ejercicios/tree/main/code/misc/experimentacion)
+      - [Caracter a Morse](https://github.com/leoarayav/INACAP-Ejercicios/tree/main/code/misc/conversion)
 ### Changelog
 * La actividad **N°1** será re-agregada nuevamente.
 * Se eliminarán archivos inusables.
