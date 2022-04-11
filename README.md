@@ -12,7 +12,7 @@
 
 ### Secciones del Repositorio
   - Actividades:
-      - [Actividad N°2](https://github.com/leoarayav/INACAP-Ejercicios/tree/main/code)
+      - [Actividad N°2](https://github.com/leoarayav/INACAP-Ejercicios/tree/main/code/actividad-2)
       - [Actividad N°3](https://github.com/leoarayav/INACAP-Ejercicios/tree/main/code/actividad-3)
   - Miscelanio:
       - [Arbol binario](https://github.com/leoarayav/INACAP-Ejercicios/tree/main/code/misc/experimentacion)
