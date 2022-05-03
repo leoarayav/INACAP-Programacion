@@ -18,6 +18,6 @@
       - [Arbol binario](https://github.com/leoarayav/INACAP-Ejercicios/tree/main/code/misc/experimentacion)
       - [Caracter a Morse](https://github.com/leoarayav/INACAP-Ejercicios/tree/main/code/misc/conversion)
 ### Changelog
-* La actividad **N°1** será re-agregada nuevamente.
-* Se eliminarán archivos inusables.
+* La actividad N°4 no será agregada porque se trabajó dentro de la clase pasada.
+* Se agregó la actividad N°5
 * > Se irán agregando las actividades relacionadas con DDF/PSC dentro del repositorio.
