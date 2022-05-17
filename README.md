@@ -22,6 +22,7 @@
       - [Arbol binario](https://github.com/leoarayav/INACAP-Ejercicios/tree/main/code/misc/experimentacion)
       - [Caracter a Morse](https://github.com/leoarayav/INACAP-Ejercicios/tree/main/code/misc/conversion)
       - [Funcionalidad](https://github.com/leoarayav/INACAP-Ejercicios/tree/main/code/misc/prueba)
+      
 ### Changelog
 * Algunas actividades fueron agregadas:
     - Actividad 4
