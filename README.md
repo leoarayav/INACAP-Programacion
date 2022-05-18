@@ -10,6 +10,18 @@
       - [C](https://www.cprogramming.com)
       - [C++](https://www.cplusplus.com)
 
+### Archivo Principal
+Este archivo permite un par de opciones, permite verificar, comprobar, listar y accesso, donde podrás verificar el estado
+de cada actividad dentro del repositorio, también podrás listar, acceder al repositorio desde el mismo programa.
+
+<img src="https://github.com/leoarayav/INACAP-Programacion/blob/main/assets/inacap-programacion.PNG?raw=true"></img>
+
+- Detalles:
+  - Version: 0.0.1 Alpha
+  - Lenguajes: **Python**
+  - Ultima actualización: 16-05-2022
+  - Authors: **@le01q**
+
 ### Secciones del Repositorio
   - Actividades:
       - [Actividad N°2](https://github.com/leoarayav/INACAP-Ejercicios/tree/main/code/actividad-2)
@@ -21,7 +33,6 @@
   - Miscelanio:
       - [Arbol binario](https://github.com/leoarayav/INACAP-Ejercicios/tree/main/code/misc/experimentacion)
       - [Caracter a Morse](https://github.com/leoarayav/INACAP-Ejercicios/tree/main/code/misc/conversion)
-      - [Funcionalidad](https://github.com/leoarayav/INACAP-Ejercicios/tree/main/code/misc/prueba)
       
 ### Changelog
 * Algunas actividades fueron agregadas:
